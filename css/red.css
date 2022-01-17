@@ -1,0 +1,17 @@
+body{
+	background: url('../img/Andrew.jpg');
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+#logo{
+	background: #CA3413;
+}
+
+#menu li:hover{
+	background: #CA3413;
+}
+
+.button-more{
+	background: #CA3413;
+}

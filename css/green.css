@@ -1,0 +1,17 @@
+body{
+	background: url('../img/Tobey.jpg');
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+#logo{
+	background: #235E3D;
+}
+
+#menu li:hover{
+	background: #235E3D;
+}
+
+.button-more{
+	background: #235E3D;
+}
